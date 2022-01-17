@@ -1,0 +1,57 @@
+.addblogHeader {
+  text-align: center;
+  margin-top: 2em;
+}
+.addblogForm {
+  max-width: 1000px;
+  margin: 1em auto;
+}
+.viewPage {
+  border: 0 solid;
+  max-width: 1000px;
+  margin: 2em auto;
+  padding: 1rem;
+  border-radius: 0.25rem;
+  line-height: inherit;
+  --tw-bg-opacity: 1;
+  background-color: rgba(242, 242, 242, var(--tw-bg-opacity));
+  font-family: inherit;
+}
+.displayandall {
+  display: flex;
+  justify-content: space-between;
+}
+.home {
+  max-width: 1000px;
+  margin: 2em auto;
+}
+.alllinks {
+  display: flex;
+}
+.linkMargin {
+  margin-right: 1em;
+}
+.heart {
+  font-size: 1.5em;
+  cursor: pointer;
+}
+.homeHeader {
+  text-align: center;
+}
+.newPostButton {
+  margin-right: 5em;
+  justify-content: end;
+  display: flex;
+}
+.backhomeButton {
+  margin-top: 1em;
+  margin-left: 2em;
+}
+.viewHeader{
+  display: flex;
+  justify-content: space-between;
+}
+.likeButton {
+  margin-top: 1em;
+  margin-right: 2em;
+}
